@@ -8,7 +8,7 @@ LinkedIn: [Matúš Tatarko](https://linkedin.com/in/matúš-tatarko-a71111164/)
 Email: <matus.tatarko28@gmail.com>
 
 ## &rarr; [Coding projects](https://github.com/green-fox-academy/definitions/tree/master/project-phase/huli/coding-projects)
-{project-name}: {link-to-repo}
+Music-player: <https://github.com/Matus28/Music-player>
 
 ## &rarr; [Interview prep](https://github.com/green-fox-academy/teaching-materials/tree/master/interview)
 LeetCode: <https://leetcode.com/Matus28>
