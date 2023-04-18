@@ -10,6 +10,8 @@ Email: <matus.tatarko28@gmail.com>
 ## &rarr; [Coding projects](https://github.com/green-fox-academy/definitions/tree/master/project-phase/huli/coding-projects)
 Music-player: <https://github.com/Matus28/Music-player>
 
+Weather-app: <https://github.com/Matus28/Weather-web-application>
+
 ## &rarr; [Interview prep](https://github.com/green-fox-academy/teaching-materials/tree/master/interview)
 LeetCode: <https://leetcode.com/Matus28>
 
